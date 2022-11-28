@@ -24,7 +24,7 @@ flutter:
         dartPluginClass: PackageInfoPlusWindowsPlugin
 
 dependencies:
-  ffi: ^2.0.1
+  ffi: ^1.2.1
   flutter:
     sdk: flutter
   flutter_web_plugins:
